@@ -126,6 +126,8 @@ This project involves modifying the **DLXOS** operating system to implement and 
 
 ## Contact
 
-- **Instructor:** Igor Crk
-- **Team Members:** Isaac DeVaney
+- **Author:** Isaac DeVaney  
+- **Email:** isaacdevaney@gmail.com
+- **GitHub:** idevane
+
 
